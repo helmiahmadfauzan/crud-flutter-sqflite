@@ -1,3 +1,3 @@
-# crudlocalstorage
+## 🎥 Demo Aplikasi
 
-A new Flutter project.
+[Klik untuk menonton demo](Video Demo Aplikasi.mp4)
